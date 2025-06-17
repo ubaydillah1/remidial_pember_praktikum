@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "190252245379",
+    "firebase_url": "https://flutter-login-app-5bce8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-login-app-5bce8",
+    "storage_bucket": "flutter-login-app-5bce8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190252245379:android:0d9503defcc0b5711996b6",
+        "android_client_info": {
+          "package_name": "com.example.modul_4_praktikum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRB0oMby1dipHVOiak92gszgOUN4I0Cqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190252245379:android:50f53818ba68496f1996b6",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRB0oMby1dipHVOiak92gszgOUN4I0Cqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
